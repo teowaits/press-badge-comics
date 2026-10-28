@@ -65,4 +65,4 @@ This is an unofficial fan project, not affiliated with or endorsed by any author
 
 ## License
 
-Code: MIT. Add a `LICENSE` file to the repo (GitHub offers an MIT template when you create one). The embedded fonts keep their own licenses, listed above.
+Code: MIT. The embedded fonts keep their own licenses, listed above.
